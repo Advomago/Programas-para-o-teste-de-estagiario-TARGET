@@ -1,0 +1,3 @@
+C:/Users/rianm/Desktop/Programas em C TARGET SYSTEM/5 - INVERTER STRING/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rianm/Desktop/Programas em C TARGET SYSTEM/5 - INVERTER STRING/cmake-build-debug/CMakeFiles/5___INVERTER_STRING.dir
+C:/Users/rianm/Desktop/Programas em C TARGET SYSTEM/5 - INVERTER STRING/cmake-build-debug/CMakeFiles/rebuild_cache.dir

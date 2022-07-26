@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5___INVERTER_STRING",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5___INVERTER_STRING::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5___INVERTER_STRING-Debug-26ba04d665eb2d1f49d0.json",
+					"name" : "5___INVERTER_STRING",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rianm/Desktop/Programas em C TARGET SYSTEM/5 - INVERTER STRING/cmake-build-debug",
+		"source" : "C:/Users/rianm/Desktop/Programas em C TARGET SYSTEM/5 - INVERTER STRING"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
